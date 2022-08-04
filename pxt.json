@@ -9,7 +9,8 @@
         "controller": "*",
         "sevenseg": "*",
         "arcade-story": "github:microsoft/arcade-storytelling#v1.0.3",
-        "darts": "*"
+        "darts": "*",
+        "tilemaps": "github:microsoft/pxt-tilemaps#v1.12.0"
     },
     "files": [
         "main.blocks",
